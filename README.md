@@ -3,7 +3,7 @@
 more nodeinject information: [NodeInject](https://github.com/DiamondHunters/NodeInject)
 
 # Example
-### Typora Crack
+### Typora Crack (version <= 1.9.5)
 1. inject
 ```shell
 cargo build --bin node-inject --release
